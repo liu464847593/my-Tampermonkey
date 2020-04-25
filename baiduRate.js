@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  百度网盘视频提供倍速播放
 // @author       Jason
-// @homepage
+// @homepage     https://github.com/liu464847593/my-Tampermonkey/blob/master/baiduRate.js
 // @grant        none
 // @include      https://pan.baidu.com/play/video*
 // @grant        none
