@@ -2,7 +2,7 @@
 // @name         百度网盘视频提供倍速播放
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  百度网盘视频提供倍速播放
+// @description  出现倍速播放按钮就可以选择速度播放了
 // @author       Jason
 // @homepage     https://github.com/liu464847593/my-Tampermonkey/blob/master/baiduRate.js
 // @grant        none
